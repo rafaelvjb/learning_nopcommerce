@@ -1,0 +1,2 @@
+DataProvider: sqlserver
+DataConnectionString: Data Source=RAFAELBRUNEE512\SQLEXPRESS;Initial Catalog=DB_NOPCOMMERCE;Integrated Security=False;Persist Security Info=False;User ID=SA;Password=1234;MultipleActiveResultSets=True
