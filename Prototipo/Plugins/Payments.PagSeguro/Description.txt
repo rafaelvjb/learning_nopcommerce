@@ -1,0 +1,8 @@
+Group: Payment methods
+FriendlyName: PagSeguro
+SystemName: Payments.PagSeguro
+Version: 1.4
+SupportedVersions: 2.70,2.80
+Author: Leopoldo De Mario (leodemario1@gmail.com)
+DisplayOrder: 0
+FileName: Nop.Plugin.Payments.PagSeguro.dll
