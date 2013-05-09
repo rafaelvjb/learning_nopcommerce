@@ -4,3 +4,6 @@ Tax.FixedRate
 Widgets.NivoSlider
 Payments.PayPalStandard
 Payments.PagSeguro
+ExternalAuth.Facebook
+ExternalAuth.OpenId
+Payments.PayPalDirect
